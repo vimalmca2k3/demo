@@ -1,6 +1,5 @@
 Initializing
 
-Removed previous merge
 
 third
 
@@ -15,3 +14,4 @@ to see one more time
 to see git diff tool from file 1
 
 Adding this from master branch
+Updating this into Verybad branch , will delete the second line
