@@ -1,6 +1,10 @@
 Initializing
 
+<<<<<<< HEAD
 This should remain
+=======
+This will cause conflict
+>>>>>>> verybad
 
 third
 
