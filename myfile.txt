@@ -1,1 +1,3 @@
 testing my file
+
+to see git diff tool from file 3
