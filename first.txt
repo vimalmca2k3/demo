@@ -1,6 +1,6 @@
 Initializing
 
-Second edit
+This will cause conflict
 
 third
 
