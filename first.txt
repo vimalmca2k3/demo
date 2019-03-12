@@ -1,6 +1,5 @@
 Initializing
 
-This will cause conflict
 
 third
 
@@ -13,3 +12,5 @@ to see more
 to see one more time
 
 to see git diff tool from file 1
+
+Updating this into Verybad branch , will delete the second line
